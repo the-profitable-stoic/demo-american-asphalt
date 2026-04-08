@@ -1,0 +1,572 @@
+{
+  "business": {
+    "name": "American Asphalt",
+    "phone": "+12145360007",
+    "category": "driveway paving",
+    "city": "Dallas",
+    "state": "TX"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Dallas' Driveway Paving Experts",
+      "heroSubline": "Durable asphalt solutions for Dallas-Fort Worth homes and businesses. Get a free, no-obligation quote today.",
+      "aboutTitle": "Decades of Dallas Driveway Paving",
+      "aboutText": [
+        "American Asphalt started with a simple goal: to provide the highest quality asphalt paving services to the Dallas community. Founded by a team of seasoned paving professionals, we understood the unique challenges our Texas climate presents to asphalt driveways. From scorching summers to the occasional ice storm, we've seen it all and know how to build driveways that last.",
+        "Our approach is straightforward: we use premium materials, employ skilled craftsmen, and prioritize clear communication with our clients. We believe in doing the job right the first time, ensuring a smooth, durable surface that enhances your property's value and curb appeal. We're not just paving driveways; we're building relationships based on trust and reliability.",
+        "We are proud to be a local Dallas business, committed to supporting our community. We source our materials locally whenever possible, contributing to the local economy and reducing our environmental impact. We also actively participate in local initiatives, ensuring that we give back to the community that has supported us for over a decade."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled paving professionals delivering superior quality and lasting results."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest-grade asphalt designed to withstand the Texas climate."
+        },
+        {
+          "title": "Free, No-Obligation Quotes",
+          "description": "Transparent pricing and detailed assessments with no hidden fees."
+        },
+        {
+          "title": "Locally Owned & Operated",
+          "description": "Dedicated to serving the Dallas-Fort Worth area with pride and integrity."
+        }
+      ],
+      "ctaHeadline": "Ready for a New Driveway?",
+      "ctaSubline": "Contact us today for a free consultation and discover the American Asphalt difference."
+    },
+    "services": [
+      {
+        "slug": "asphalt-driveway-paving",
+        "name": "Asphalt Driveway Paving",
+        "shortDescription": "New asphalt driveway installation for lasting curb appeal.",
+        "description": "From initial site preparation to the final compaction, American Asphalt provides comprehensive asphalt driveway paving services. We begin with a thorough assessment of your property, taking into account factors like soil composition, drainage patterns, and existing landscaping. Our experienced team then prepares the base, ensuring a solid foundation for your new driveway. We use only premium-grade asphalt, specifically formulated to withstand the extreme temperatures and weather conditions of the Dallas area. \n\nOur paving process includes precise grading and leveling to ensure proper drainage and prevent water damage. We then compact the asphalt using heavy-duty machinery, creating a smooth, durable surface that will stand the test of time. We also offer a variety of finishing options, including sealcoating and decorative edging, to enhance the appearance and longevity of your new driveway. Whether you're building a new home or replacing an existing driveway, American Asphalt delivers superior results that exceed expectations.\n\nWe understand that a new driveway is a significant investment, and we are committed to providing exceptional value and customer satisfaction. Our team is fully licensed and insured, and we stand behind our work with a comprehensive warranty. Contact us today for a free estimate and let us transform your property with a beautiful, durable asphalt driveway.",
+        "process": [
+          "Step 1: Site Assessment and Preparation",
+          "Step 2: Base Installation and Compaction",
+          "Step 3: Asphalt Paving and Grading",
+          "Step 4: Final Compaction and Finishing"
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Property Value",
+          "Durable and Long-Lasting Surface",
+          "Improved Drainage and Safety"
+        ],
+        "faq": [
+          {
+            "question": "How long does asphalt driveway paving last?",
+            "answer": "With proper installation and maintenance, an asphalt driveway can last 15-20 years in the Dallas climate. Factors like traffic volume, weather exposure, and maintenance practices can affect its lifespan."
+          },
+          {
+            "question": "What is the best time of year for asphalt paving in Dallas?",
+            "answer": "The ideal time for asphalt paving in Dallas is typically during the spring or fall when temperatures are moderate and there is less chance of extreme heat or cold affecting the asphalt's curing process."
+          },
+          {
+            "question": "How much does asphalt driveway paving cost?",
+            "answer": "The cost of asphalt driveway paving varies depending on the size of the driveway, the thickness of the asphalt, and any additional site preparation required. Contact us for a free, no-obligation quote."
+          }
+        ]
+      },
+      {
+        "slug": "asphalt-driveway-repair",
+        "name": "Asphalt Driveway Repair",
+        "shortDescription": "Expert asphalt repair services to fix cracks, potholes, and damage.",
+        "description": "Don't let cracks and potholes ruin your driveway! American Asphalt specializes in asphalt driveway repair, providing cost-effective solutions to restore the integrity and appearance of your paved surfaces. Our experienced team can handle a wide range of repairs, from filling minor cracks to patching large potholes. We use hot-mix asphalt, the same material used in new driveway installations, to ensure a durable and seamless repair.\n\nWe understand that timely repairs are essential to prevent further damage and extend the life of your driveway. Water seeping into cracks can freeze and expand during the winter months, causing the asphalt to crumble and deteriorate. By addressing these issues promptly, you can avoid costly replacements down the road. Our repair process involves cleaning and preparing the damaged area, applying a tack coat to promote adhesion, and then filling the crack or pothole with hot-mix asphalt. We compact the asphalt to create a smooth, even surface that blends seamlessly with the existing driveway.\n\nWhether you have a few minor cracks or a more significant area of damage, American Asphalt has the expertise and equipment to get the job done right. We offer free estimates and stand behind our work with a satisfaction guarantee. Protect your investment and restore your driveway to its former glory with our professional asphalt repair services.",
+        "process": [
+          "Step 1: Thorough Damage Assessment",
+          "Step 2: Cleaning and Preparation of Damaged Areas",
+          "Step 3: Hot-Mix Asphalt Application",
+          "Step 4: Compaction and Finishing"
+        ],
+        "benefits": [
+          "Prevents Further Damage",
+          "Extends Driveway Lifespan",
+          "Restores Appearance",
+          "Cost-Effective Solution"
+        ],
+        "faq": [
+          {
+            "question": "How soon should I repair cracks in my asphalt driveway?",
+            "answer": "It's best to repair cracks as soon as you notice them to prevent water from seeping in and causing further damage. Small cracks can quickly turn into larger problems if left unattended."
+          },
+          {
+            "question": "What causes potholes in asphalt driveways?",
+            "answer": "Potholes are typically caused by water penetration, freeze-thaw cycles, and heavy traffic. When water seeps into cracks and freezes, it expands, causing the asphalt to break apart and form potholes."
+          },
+          {
+            "question": "Is asphalt repair a DIY project?",
+            "answer": "While some minor cracks can be repaired with DIY kits, it's generally best to hire a professional for asphalt repair, especially for larger cracks and potholes. Professionals have the experience, equipment, and materials to ensure a durable and long-lasting repair."
+          }
+        ]
+      },
+      {
+        "slug": "asphalt-sealcoating",
+        "name": "Asphalt Sealcoating",
+        "shortDescription": "Protect your driveway with professional asphalt sealcoating services.",
+        "description": "Extend the life of your asphalt driveway with American Asphalt's professional sealcoating services. Sealcoating is a protective layer applied to the surface of your asphalt driveway, shielding it from the damaging effects of weather, traffic, and chemicals. In the Dallas heat, the sun's UV rays can dry out the oils in asphalt, causing it to become brittle and crack. Sealcoating acts as a barrier, preventing this oxidation and keeping your asphalt flexible and durable.\n\nOur sealcoating process involves thoroughly cleaning the driveway surface, filling any minor cracks, and then applying a high-quality sealant. We use only premium sealants that are specifically formulated to withstand the harsh Texas climate. Our sealcoating not only protects your driveway but also enhances its appearance, giving it a fresh, black look. Sealcoating also makes your driveway easier to clean and maintain, as it creates a smooth, non-porous surface that resists stains and spills.\n\nSealcoating is a cost-effective way to protect your investment and extend the life of your asphalt driveway. We recommend sealcoating every 2-3 years to maintain optimal protection. American Asphalt offers free estimates and stands behind our work with a satisfaction guarantee. Protect your driveway from the elements and keep it looking its best with our professional sealcoating services.",
+        "process": [
+          "Step 1: Thorough Cleaning and Preparation",
+          "Step 2: Crack Filling (if necessary)",
+          "Step 3: Sealant Application",
+          "Step 4: Curing and Drying"
+        ],
+        "benefits": [
+          "Protects Against Weather Damage",
+          "Extends Driveway Lifespan",
+          "Enhances Appearance",
+          "Improves Cleanability"
+        ],
+        "faq": [
+          {
+            "question": "How often should I sealcoat my asphalt driveway?",
+            "answer": "We recommend sealcoating your asphalt driveway every 2-3 years to maintain optimal protection."
+          },
+          {
+            "question": "How long does sealcoating take to dry?",
+            "answer": "Sealcoating typically takes 24-48 hours to dry completely, depending on weather conditions. We recommend avoiding driving or walking on the sealed surface during this time."
+          },
+          {
+            "question": "Can I sealcoat my driveway myself?",
+            "answer": "While DIY sealcoating kits are available, it's generally best to hire a professional for sealcoating. Professionals have the experience, equipment, and materials to ensure a proper application and long-lasting results."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-extensions",
+        "name": "Driveway Extensions",
+        "shortDescription": "Expand your parking space with professional driveway extensions.",
+        "description": "Need more parking space? American Asphalt offers driveway extension services to expand your existing driveway and create additional parking for your vehicles. Whether you have a growing family or frequently entertain guests, a driveway extension can provide the extra space you need. We can extend your driveway in a variety of configurations, from simple widening to creating additional parking pads. \n\nOur driveway extension process begins with a thorough assessment of your property and your specific needs. We take into account factors like drainage, landscaping, and local zoning regulations. We then prepare the site, ensuring a solid foundation for the new asphalt. We use the same high-quality asphalt and paving techniques as we do for new driveway installations, ensuring a seamless and durable extension that blends seamlessly with your existing driveway.\n\nAmerican Asphalt is committed to providing exceptional customer service and quality workmanship. We offer free estimates and stand behind our work with a satisfaction guarantee. Expand your parking space and enhance the value of your property with our professional driveway extension services.",
+        "process": [
+          "Step 1: Site Assessment and Planning",
+          "Step 2: Site Preparation and Grading",
+          "Step 3: Asphalt Paving and Compaction",
+          "Step 4: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Increased Parking Space",
+          "Enhanced Property Value",
+          "Improved Curb Appeal",
+          "Seamless Integration with Existing Driveway"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for a driveway extension?",
+            "answer": "Depending on the size and location of your driveway extension, you may need a permit from the city of Dallas or your local municipality. We can help you determine if a permit is required and assist with the application process."
+          },
+          {
+            "question": "How long does it take to extend a driveway?",
+            "answer": "The time it takes to extend a driveway depends on the size and complexity of the project. Most driveway extensions can be completed in 1-3 days."
+          },
+          {
+            "question": "Can you match the existing asphalt on my driveway?",
+            "answer": "Yes, we can match the existing asphalt on your driveway as closely as possible to ensure a seamless and consistent look."
+          }
+        ]
+      },
+      {
+        "slug": "asphalt-resurfacing",
+        "name": "Asphalt Resurfacing",
+        "shortDescription": "Give your worn driveway a fresh look with asphalt resurfacing.",
+        "description": "Is your driveway showing its age? American Asphalt offers asphalt resurfacing services to give your worn driveway a fresh, new look without the expense of a complete replacement. Asphalt resurfacing involves applying a new layer of asphalt over your existing driveway, creating a smooth, even surface that enhances your property's curb appeal. \n\nOur resurfacing process begins with a thorough inspection of your existing driveway. We identify and repair any major cracks or potholes before applying the new layer of asphalt. We then apply a tack coat to promote adhesion and pave a new layer of hot-mix asphalt over the existing surface. We compact the asphalt to create a smooth, durable finish that will last for years to come. Asphalt resurfacing is a cost-effective alternative to complete driveway replacement, and it can significantly improve the appearance and value of your property.\n\nAmerican Asphalt is committed to providing exceptional customer service and quality workmanship. We offer free estimates and stand behind our work with a satisfaction guarantee. Give your driveway a facelift with our professional asphalt resurfacing services.",
+        "process": [
+          "Step 1: Driveway Inspection and Preparation",
+          "Step 2: Crack and Pothole Repair",
+          "Step 3: Tack Coat Application",
+          "Step 4: Asphalt Paving and Compaction"
+        ],
+        "benefits": [
+          "Cost-Effective Alternative to Replacement",
+          "Improved Curb Appeal",
+          "Extended Driveway Lifespan",
+          "Smooth and Durable Surface"
+        ],
+        "faq": [
+          {
+            "question": "When is asphalt resurfacing a good option?",
+            "answer": "Asphalt resurfacing is a good option when your driveway has minor cracks, potholes, and surface imperfections, but the base is still structurally sound. If your driveway has major structural damage, complete replacement may be necessary."
+          },
+          {
+            "question": "How long does asphalt resurfacing last?",
+            "answer": "Asphalt resurfacing can last 8-12 years, depending on traffic volume, weather conditions, and maintenance practices."
+          },
+          {
+            "question": "How is resurfacing different from a new driveway?",
+            "answer": "Resurfacing involves paving a new layer over the existing asphalt. A new driveway involves removing the old asphalt, preparing the base, and paving a completely new driveway structure."
+          }
+        ]
+      },
+      {
+        "slug": "custom-paving-solutions",
+        "name": "Custom Paving Solutions",
+        "shortDescription": "Tailored paving for unique projects: pathways, patios, and more.",
+        "description": "Beyond driveways, American Asphalt provides custom paving solutions for a variety of projects. Whether you need a paved pathway, a patio, or a custom parking area, our experienced team can deliver exceptional results. We work closely with you to understand your specific needs and design a paving solution that meets your unique requirements. \n\nOur custom paving services include site preparation, grading, paving, and finishing. We use high-quality materials and proven techniques to ensure a durable and aesthetically pleasing surface. We can also incorporate decorative elements, such as colored asphalt or stamped patterns, to create a unique and personalized look. American Asphalt is committed to providing exceptional customer service and quality workmanship. We offer free estimates and stand behind our work with a satisfaction guarantee. Let us help you create a beautiful and functional outdoor space with our custom paving solutions.",
+        "process": [
+          "Step 1: Project Consultation and Design",
+          "Step 2: Site Preparation and Grading",
+          "Step 3: Paving and Compaction",
+          "Step 4: Finishing and Detailing"
+        ],
+        "benefits": [
+          "Customized Paving Solutions",
+          "Enhanced Outdoor Spaces",
+          "Increased Property Value",
+          "Durable and Aesthetically Pleasing Results"
+        ],
+        "faq": [
+          {
+            "question": "Can you pave around trees and landscaping?",
+            "answer": "Yes, we can carefully pave around trees and landscaping to minimize disruption and maintain the natural beauty of your property. We can also install tree rings and other features to protect your trees."
+          },
+          {
+            "question": "What types of decorative asphalt options are available?",
+            "answer": "We offer a variety of decorative asphalt options, including colored asphalt, stamped patterns, and exposed aggregate finishes. We can help you choose the right option to complement your property's style."
+          },
+          {
+            "question": "Do you offer paving for commercial properties?",
+            "answer": "Yes, we offer paving services for both residential and commercial properties. We can handle projects of any size and complexity."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Worth",
+        "slug": "fort-worth-tx",
+        "state": "TX",
+        "content": "American Asphalt is proud to serve the vibrant city of Fort Worth, Texas. From the historic Stockyards to the beautiful craftsman bungalows near downtown, we understand the unique character of Fort Worth neighborhoods. We provide top-quality asphalt paving services to both residential and commercial clients throughout the city.\n\nOur team is experienced in handling the challenges of the Fort Worth climate, including hot, humid summers and occasional severe weather. We use durable materials and proven techniques to ensure your driveway or parking lot can withstand the elements and provide lasting value. Whether you need a new driveway installation, asphalt repair, or sealcoating, American Asphalt is your trusted partner in Fort Worth.",
+        "localContext": "Fort Worth's blend of modern development and historic charm makes it a unique place to live and work, and we tailor our paving services to meet the specific needs of each neighborhood.",
+        "nearbyAreas": [
+          "Arlington",
+          "Dallas",
+          "Grand Prairie"
+        ]
+      },
+      {
+        "city": "Plano",
+        "slug": "plano-tx",
+        "state": "TX",
+        "content": "American Asphalt provides expert asphalt paving services to Plano, Texas. Known for its well-maintained established subdivisions from the 1980s and 90s, Plano demands quality and reliability in its infrastructure. We are committed to delivering exceptional paving solutions to Plano homeowners and businesses alike.\n\nWe understand the importance of curb appeal and property value in Plano. Our services include driveway paving, repair, and sealcoating, all designed to enhance the look and functionality of your property. We use high-quality materials and proven techniques to ensure long-lasting results, even in the face of Plano's hot, humid summers. Trust American Asphalt for all your asphalt paving needs in Plano.",
+        "localContext": "Plano's established neighborhoods require paving solutions that blend seamlessly with their existing aesthetic, and we are committed to providing just that.",
+        "nearbyAreas": [
+          "Frisco",
+          "Richardson",
+          "Allen"
+        ]
+      },
+      {
+        "city": "Frisco",
+        "slug": "frisco-tx",
+        "state": "TX",
+        "content": "American Asphalt is your go-to paving contractor in Frisco, Texas. With its rapid growth and newer construction from the 2000s to the 2020s, Frisco demands modern and reliable infrastructure. We offer a full range of asphalt paving services to meet the needs of this dynamic community.\n\nFrom new driveway installations to parking lot maintenance, we have the expertise and equipment to handle any project, large or small. We understand the importance of timely and efficient service, and we are committed to exceeding your expectations. We are familiar with the impact of Frisco's hot, humid summers on pavements. We use premium materials and modern techniques to ensure your asphalt surfaces can withstand the elements and provide lasting value. Choose American Asphalt for all your paving needs in Frisco.",
+        "localContext": "Frisco's modern developments require paving solutions that are both aesthetically pleasing and durable, and we are committed to providing just that.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "The Colony"
+        ]
+      },
+      {
+        "city": "McKinney",
+        "slug": "mckinney-tx",
+        "state": "TX",
+        "content": "American Asphalt proudly serves the city of McKinney, Texas, providing top-quality asphalt paving services to both residential and commercial clients. From the historic downtown homes to the newer developments, we understand the unique character of McKinney neighborhoods.\n\nWe offer a wide range of services, including driveway paving, repair, and sealcoating. Our team is experienced in handling the challenges of the McKinney climate, including hot, humid summers and occasional severe weather. We use durable materials and proven techniques to ensure your driveway or parking lot can withstand the elements and provide lasting value. Trust American Asphalt for all your paving needs in McKinney.",
+        "localContext": "McKinney's blend of historic charm and modern development makes it a unique place to live and work, and we tailor our paving services to meet the specific needs of each neighborhood.",
+        "nearbyAreas": [
+          "Frisco",
+          "Allen",
+          "Prosper"
+        ]
+      },
+      {
+        "city": "Arlington",
+        "slug": "arlington-tx",
+        "state": "TX",
+        "content": "American Asphalt is a leading provider of asphalt paving services in Arlington, Texas. Known for its 1960s-70s ranch-style homes and vibrant community, Arlington demands quality and reliability in its infrastructure. We are committed to delivering exceptional paving solutions to Arlington homeowners and businesses alike.\n\nWe understand the importance of curb appeal and property value in Arlington. Our services include driveway paving, repair, and sealcoating, all designed to enhance the look and functionality of your property. We use high-quality materials and proven techniques to ensure long-lasting results, even in the face of Arlington's hot, humid summers. Trust American Asphalt for all your asphalt paving needs in Arlington.",
+        "localContext": "Arlington's established neighborhoods require paving solutions that blend seamlessly with their existing aesthetic, and we are committed to providing just that.",
+        "nearbyAreas": [
+          "Fort Worth",
+          "Grand Prairie",
+          "Mansfield"
+        ]
+      },
+      {
+        "city": "Dallas",
+        "slug": "dallas-tx",
+        "state": "TX",
+        "content": "American Asphalt is your trusted source for all asphalt paving needs in Dallas, Texas. As a leading provider in the Dallas-Fort Worth metroplex, we offer comprehensive services, from new driveway installations to parking lot repairs and maintenance. We cater to both residential and commercial clients throughout the city.\n\nDallas presents unique challenges with its diverse neighborhoods and high traffic volume. We address these challenges by utilizing premium materials and proven techniques that ensure lasting durability and aesthetic appeal. Our commitment to quality and customer satisfaction is unparalleled, making us the preferred choice for asphalt paving in Dallas.",
+        "localContext": "Dallas, a major metropolitan hub, requires paving solutions that can withstand heavy usage and diverse weather conditions, and we are equipped to deliver just that.",
+        "nearbyAreas": [
+          "Irving",
+          "Garland",
+          "Mesquite"
+        ]
+      },
+      {
+        "city": "Garland",
+        "slug": "garland-tx",
+        "state": "TX",
+        "content": "American Asphalt extends its expert paving services to Garland, Texas. We are dedicated to providing top-notch asphalt solutions to meet the needs of Garland's diverse community, from residential driveways to commercial parking lots. We understand the importance of reliable and durable paving in this thriving city.\n\nWith years of experience, American Asphalt brings quality craftsmanship and superior materials to every project in Garland. We offer a range of services, including asphalt repair, sealcoating, and new installations, ensuring your paving surfaces remain in optimal condition. Trust us to enhance the value and functionality of your property with our professional asphalt paving services.",
+        "localContext": "Garland's mix of residential and commercial properties necessitates versatile paving solutions, and we are committed to meeting those needs with expertise and precision.",
+        "nearbyAreas": [
+          "Dallas",
+          "Mesquite",
+          "Richardson"
+        ]
+      },
+      {
+        "city": "Irving",
+        "slug": "irving-tx",
+        "state": "TX",
+        "content": "American Asphalt delivers premier asphalt paving services to Irving, Texas. As a key city in the Dallas-Fort Worth area, Irving demands high-quality infrastructure, and we are committed to providing exceptional paving solutions to meet those needs. Whether you require driveway paving, parking lot maintenance, or asphalt repairs, we have you covered.\n\nWe understand the importance of reliable and long-lasting paving in Irving's busy environment. Our team uses top-grade materials and proven techniques to ensure your asphalt surfaces can withstand heavy traffic and harsh weather conditions. Trust American Asphalt to provide superior paving services that enhance the value and appearance of your property.",
+        "localContext": "Irving's strategic location and bustling economy require robust and reliable paving solutions, and we are dedicated to delivering just that.",
+        "nearbyAreas": [
+          "Dallas",
+          "Grand Prairie",
+          "Euless"
+        ]
+      },
+      {
+        "city": "Allen",
+        "slug": "allen-tx",
+        "state": "TX",
+        "content": "American Asphalt provides top-quality asphalt paving services to the growing community of Allen, Texas. We understand the unique needs of Allen's residential and commercial properties and are committed to delivering exceptional paving solutions that enhance both aesthetics and functionality.\n\nFrom new driveway installations to parking lot repairs, our experienced team uses only the highest quality materials and proven techniques to ensure long-lasting results. We take pride in exceeding our customers' expectations and providing reliable, durable paving solutions that can withstand Allen's climate and traffic demands. Trust American Asphalt for all your asphalt paving needs in Allen.",
+        "localContext": "Allen's rapid growth and commitment to quality of life make it essential to have paving solutions that are both durable and visually appealing.",
+        "nearbyAreas": [
+          "Plano",
+          "McKinney",
+          "Fairview"
+        ]
+      },
+      {
+        "city": "Richardson",
+        "slug": "richardson-tx",
+        "state": "TX",
+        "content": "American Asphalt proudly serves the city of Richardson, Texas, providing expert asphalt paving services for residential and commercial properties. We understand the importance of maintaining curb appeal and property value in Richardson's well-established neighborhoods.\n\nOur services include driveway paving, repair, and sealcoating, all designed to enhance the look and functionality of your property. We use high-quality materials and proven techniques to ensure long-lasting results, even in Richardson's hot, humid summers. Trust American Asphalt for all your asphalt paving needs in Richardson.",
+        "localContext": "Richardson's commitment to community and well-maintained properties make it essential to have paving solutions that are both durable and aesthetically pleasing.",
+        "nearbyAreas": [
+          "Plano",
+          "Garland",
+          "Dallas"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Robert K.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "American Asphalt did an outstanding job on my new driveway. From the initial consultation to the final cleanup, they were professional, efficient, and courteous. The crew was skilled and meticulous, and the finished product looks fantastic. I highly recommend them!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "service": "Asphalt Driveway Repair",
+        "text": "I had several large potholes in my driveway, and American Asphalt fixed them quickly and effectively. The repairs are holding up well, and I'm very pleased with the results. The price was fair, and the service was excellent.",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Asphalt Sealcoating",
+        "text": "American Asphalt sealcoated my driveway, and it looks brand new! The sealant was applied evenly and professionally, and it's already protecting my driveway from the Texas sun. I would definitely use them again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jennifer M.",
+        "rating": 5,
+        "service": "Driveway Extension",
+        "text": "We needed to extend our driveway to accommodate our growing family, and American Asphalt did a fantastic job. They matched the existing asphalt perfectly, and the extension looks like it was always there. Great communication and a smooth process!",
+        "date": "2024-09-08"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Asphalt Resurfacing",
+        "text": "My driveway was cracked and faded, and American Asphalt resurfaced it beautifully. It looks so much better, and I'm confident it will last for many years to come. The crew was professional and efficient.",
+        "date": "2024-07-12"
+      },
+      {
+        "name": "Susan H.",
+        "rating": 5,
+        "service": "Asphalt Driveway Paving",
+        "text": "After getting several quotes, we chose American Asphalt for our new driveway. Best decision! They were upfront about costs and timeline, and the team worked hard. The end result is a beautiful, smooth driveway that has really improved the look of our home.",
+        "date": "2024-05-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Dallas Asphalt Paving | American Asphalt",
+        "description": "Expert asphalt driveway paving, repair, and sealcoating in Dallas, TX. Free quotes. Durable solutions for Texas weather."
+      },
+      "about": {
+        "title": "About American Asphalt | Dallas Paving Company",
+        "description": "Learn about American Asphalt, your trusted Dallas asphalt paving contractor. Quality, reliability, and community commitment."
+      },
+      "services": {
+        "title": "Asphalt Paving Services | Dallas, TX",
+        "description": "Driveway paving, repair, sealcoating, and more in Dallas, TX. Expert asphalt solutions for residential and commercial properties."
+      },
+      "contact": {
+        "title": "Contact American Asphalt | Dallas, TX",
+        "description": "Get a free quote for asphalt paving services in Dallas, TX. Contact American Asphalt today!"
+      },
+      "reviews": {
+        "title": "American Asphalt Reviews | Dallas, TX",
+        "description": "Read reviews from satisfied American Asphalt customers in Dallas, TX. Quality paving services and customer satisfaction."
+      },
+      "service-areas": {
+        "title": "Service Areas | American Asphalt | Dallas, TX",
+        "description": "American Asphalt provides services to the entire DFW metroplex. Contact us today for a free quote."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "asphalt-driveway-paving": "/images/service-asphalt-driveway-paving.webp",
+      "asphalt-driveway-repair": "/images/service-asphalt-driveway-repair.webp",
+      "asphalt-sealcoating": "/images/service-asphalt-sealcoating.webp",
+      "driveway-extensions": "/images/service-driveway-extensions.webp",
+      "asphalt-resurfacing": "/images/service-asphalt-resurfacing.webp",
+      "custom-paving-solutions": "/images/service-custom-paving-solutions.webp"
+    },
+    "servicesResponsive": {
+      "asphalt-driveway-paving": {
+        "src": "/images/service-asphalt-driveway-paving.webp",
+        "srcset": "/images/service-asphalt-driveway-paving-400w.webp 400w, /images/service-asphalt-driveway-paving-800w.webp 800w, /images/service-asphalt-driveway-paving-1200w.webp 1200w, /images/service-asphalt-driveway-paving.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "asphalt-driveway-repair": {
+        "src": "/images/service-asphalt-driveway-repair.webp",
+        "srcset": "/images/service-asphalt-driveway-repair-400w.webp 400w, /images/service-asphalt-driveway-repair-800w.webp 800w, /images/service-asphalt-driveway-repair-1200w.webp 1200w, /images/service-asphalt-driveway-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "asphalt-sealcoating": {
+        "src": "/images/service-asphalt-sealcoating.webp",
+        "srcset": "/images/service-asphalt-sealcoating-400w.webp 400w, /images/service-asphalt-sealcoating-800w.webp 800w, /images/service-asphalt-sealcoating-1200w.webp 1200w, /images/service-asphalt-sealcoating.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-extensions": {
+        "src": "/images/service-driveway-extensions.webp",
+        "srcset": "/images/service-driveway-extensions-400w.webp 400w, /images/service-driveway-extensions-800w.webp 800w, /images/service-driveway-extensions-1200w.webp 1200w, /images/service-driveway-extensions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "asphalt-resurfacing": {
+        "src": "/images/service-asphalt-resurfacing.webp",
+        "srcset": "/images/service-asphalt-resurfacing-400w.webp 400w, /images/service-asphalt-resurfacing-800w.webp 800w, /images/service-asphalt-resurfacing-1200w.webp 1200w, /images/service-asphalt-resurfacing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-paving-solutions": {
+        "src": "/images/service-custom-paving-solutions.webp",
+        "srcset": "/images/service-custom-paving-solutions-400w.webp 400w, /images/service-custom-paving-solutions-800w.webp 800w, /images/service-custom-paving-solutions-1200w.webp 1200w, /images/service-custom-paving-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
